@@ -1,0 +1,19 @@
+#box {
+    color: red;
+    background-color: orange;
+    font-size: large;
+    font-style: italic;
+    border : 3px solid black;
+}
+
+.para {
+    color: red;
+    background-color: yellow;
+    font-size: large;
+    font-style: oblique;
+    border : 3px solid black;
+}
+
+.content {
+    background-color: green;
+}
