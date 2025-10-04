@@ -1,0 +1,18 @@
+div {
+    color :red;
+    background-color: orange;
+    font-size: 20px;
+    text-align: center;
+    height: 100px;
+    width: 100px;
+}
+
+.dark {
+    background-color: black;
+    color: white;
+}
+
+.light {
+    background-color: white;
+    color: black;
+}
